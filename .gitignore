@@ -34,3 +34,6 @@
 /RemoteCtrl/RemoteCtrl/RemoteCtrl.vcxproj.user
 /RemoteCtrl/RemoteClient/RemoteClient.vcxproj.user
 /RemoteCtrl/RemoteClient/RemoteClient.aps
+/RemoteCtrl/x64
+/RemoteCtrl/RemoteClient/x64
+/RemoteCtrl/RemoteCtrl/x64
